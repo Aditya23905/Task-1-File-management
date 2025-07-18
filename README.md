@@ -1,5 +1,11 @@
 # Task 1: File Management Tool
 
+Company:- Codtech IT Solutions
+Name:- Aditya Deokar 
+Intern ID:- CT08DL621
+Domain:- C++ Programming
+Duration:- 8 Weeks
+Mentor:- Neela Santosh Kumar
 ## Description
 This C++ application allows the user to perform basic file operations:
 - Write data to a text file
