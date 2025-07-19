@@ -37,3 +37,5 @@ Append
 Enter your choice: 1
 Enter content to write: Hello CodTech!
 Data written.
+
+<img width="1163" height="568" alt="Image" src="https://github.com/user-attachments/assets/af375b37-65ae-4aa1-bf1b-8de55f2b74eb" />
